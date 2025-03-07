@@ -47,7 +47,7 @@ donde:
 3. **Salida Esperada:** 
     El script imprimirá la cantidad de líneas, palabras y palabras distintas en cada archivo, así como la distancia en radianes entre los dos documentos.
 
-    **salida de eljemplo**
+    **salida de ejemplo**
 
     ```console
     Archivo file1.txt :
